@@ -1,3 +1,5 @@
+> **Warning**: Meetup no longer uses Swift in our codebase and will no longer maintain this.
+
 # firestoker 🔥
 
 firestoker automatically generates a client class for your api using a open api schema.
